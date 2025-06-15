@@ -7,3 +7,8 @@ bases:
 
 nameSuffix: -emea
 
+images:
+  - name: mysql
+    newName: ristry.redhat.io/rhel8/mysql-80
+    newTag: 1-156
+
